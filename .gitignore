@@ -1,0 +1,15 @@
+# Dependency directory
+node_modules
+
+# Mac file system
+.ds_store
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
