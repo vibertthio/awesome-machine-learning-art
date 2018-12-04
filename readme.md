@@ -39,7 +39,7 @@
 - [Beat Blender](https://experiments.withgoogle.com/ai/beat-blender/view/) - 🥁 Blend beats using machine learning to create music in a fun new way.
 - [Melody Mixer](https://experiments.withgoogle.com/ai/melody-mixer/view/) - 🎶 A fun way to explore music using machine learning.
 - [Performance RNN](https://magenta.tensorflow.org/demos/performance_rnn/index.html#1|2,0,1,0,1,1,0,1,0,1,0,1|1,1,1,1,1,1,1,1,1,1,1,1|1,1,1,1,1,1,1,1,1,1,1,1|true) - :musical_keyboard: Real-time performance by a reccurent neural network (RNN) in the browser.
-- [Fast Style Transfer](https://yining1023.github.io/fast_style_transfer_in_ML5/#)  - ⚡🖥🎨🖼 Extremely easy example for fast real-time style transfer in the browser.
+- [Fast Style Transfer](https://yining1023.github.io/fast_style_transfer_in_ML5/#)  - ⚡ Extremely easy example for fast real-time style transfer in the browser.
 - [Dirty Data](https://www.memo.tv/portfolio/dirty-data/) - 😈 What happens when you use ‘dirty’ data? Does the network learn anything? If so, what does it learn? Is there anything interesting we can get out of it?
 
 
