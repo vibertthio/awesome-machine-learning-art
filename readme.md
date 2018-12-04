@@ -1,7 +1,6 @@
 # Awesome Machine Learning Art [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome projects/works/people/articles/resource for creating art with machine learning.
-
+> :robot: :art: :guitar: A curated list of awesome projects, works, people, articles, and resource for creating art (including music) with machine learning.
 
 
 ## Contents
