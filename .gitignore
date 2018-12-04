@@ -13,3 +13,8 @@ logs
 pids
 *.pid
 *.seed
+
+# others
+yarn.lock
+.yo-rc.json
+package.json

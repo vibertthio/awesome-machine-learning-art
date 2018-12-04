@@ -34,23 +34,14 @@
 ## Projects
 
 - [Magenta](https://magenta.tensorflow.org/) - An open source research project exploring the role of machine learning as a tool in the creative process.
-
 - [The Infinite Drum Machine](https://experiments.withgoogle.com/drum-machine) - 🥁 Thousands of everyday sounds, organized using machine learning.
-
 - [art-DCGAN](https://github.com/robbiebarrat/art-DCGAN) - :art: Modified implementation of DCGAN focused on generative art.
-
 - [rapping-neural-network](https://github.com/robbiebarrat/rapping-neural-network) - 🎤 Rap song writing recurrent neural network trained on Kanye West's entire discography.
-
 - [Beat Blender](https://experiments.withgoogle.com/ai/beat-blender/view/) - 🥁 Blend beats using machine learning to create music in a fun new way.
-
 - [Melody Mixer](https://experiments.withgoogle.com/ai/melody-mixer/view/) - 🎶 A fun way to explore music using machine learning.
-
 - [Performance RNN](https://magenta.tensorflow.org/demos/performance_rnn/index.html#1|2,0,1,0,1,1,0,1,0,1,0,1|1,1,1,1,1,1,1,1,1,1,1,1|1,1,1,1,1,1,1,1,1,1,1,1|true) - :musical_keyboard: Real-time performance by a reccurent neural network (RNN) in the browser.
-
 - [Fast Style Transfer](https://yining1023.github.io/fast_style_transfer_in_ML5/#)  - ⚡🖥🎨🖼 Extremely easy example for fast real-time style transfer in the browser.
-
 - [Dirty Data](https://www.memo.tv/portfolio/dirty-data/) - 😈 What happens when you use ‘dirty’ data? Does the network learn anything? If so, what does it learn? Is there anything interesting we can get out of it?
-
 
 
 ## Articles and Talks
@@ -58,7 +49,7 @@
 - [MusicVAE: Creating a palette for musical scores with machine learning](https://magenta.tensorflow.org/music-vae)
 - [Generating Abstract Patterns with TensorFlow](http://blog.otoro.net/2016/03/25/generating-abstract-patterns-with-tensorflow/)
 - [Machine learning for artists (a.k.a ml4a) (Gene Kogan)](https://medium.com/@genekogan?source=post_header_lockup)
-- [Artists and Machine Intelligence](https://medium.com/artists-and-machine-intelligence) -  A program at Google that brings artists and engineers together to realize projects using Machine Intelligence. 
+- [Artists and Machine Intelligence](https://medium.com/artists-and-machine-intelligence) -  A program at Google that brings artists and engineers together to realize projects using Machine Intelligence.
 
 
 
@@ -93,7 +84,7 @@
 ## Libraries
 
 - [tensorflow.js](https://js.tensorflow.org/) - :zap: A JavaScript library for training and deploying ML models in the browser and on Node.js.
-- [ml5.js](https://ml5js.org/) - :robot: 🖌  It aims to make machine learning approachable for a broad audience of artists, creative coders, and students. 
+- [ml5.js](https://ml5js.org/) - :robot: 🖌  It aims to make machine learning approachable for a broad audience of artists, creative coders, and students.
 - [p5.js](https://github.com/processing/p5.js) - :art: :guitar:  p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web.
 
 
