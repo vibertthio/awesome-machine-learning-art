@@ -13,7 +13,6 @@
 - [TODO](#todo)
 
 
-
 ## People to Follow
 
 - [Tero Parviainen](https://twitter.com/teropa) - Software developer, music hacker, and writer. Building the design tools of the future at creative.ai.
@@ -30,8 +29,8 @@
 - [Samim](https://twitter.com/samim) - Currently working for Google. Designer & Code Magician. Machine Learning, Flora-Fauna-Human-Computer-Interaction.
 - [Luba Elliott](https://twitter.com/elluba) - Curator, researcher, organizer of several crative AI events.
 - [Nao Tokui](https://twitter.com/naotokui_en/) - Runs a creative lab, Qosmo, in Tokyo. He is the creator of the "AI DJ" project.
-
-
+- [Sofia Crespo](https://twitter.com/soficrespo91) - An artists who is playing around botany, microscopy, and nueral networks.
+- [Anna Ridler](https://twitter.com/annaridler) - An artists who specilizes in machine learning and drawing.
 
 
 ## Projects
@@ -48,8 +47,7 @@
 - [Neural Beatbox](https://twitter.com/naotokui_en/status/1026467328592994305) - 🎤 RNN-based rhythm geration + audio classification = fun!
 - [AI DJ](http://aidj.qosmo.jp/) - 💽 A live performance featuring an Artificial Intelligence (AI) DJ playing alongside a human DJ. It won “Honorary Mentions” Award at Prix Ars Electronica 2018.
 - [Machine Learning for Creativity and Design, NeurIPS 2018 Workshop](https://nips2018creativity.github.io/) - 👨‍👩‍👧‍👦 It features 35 papers about mahcine learning art, incluing a wide range of different disciplines.
-
-
+- [Everyone Dance Now](https://www.youtube.com/watch?v=PCBTZh41Ris) - 💃 transfer any person into a professional dancer immediately.
 
 
 ## Articles and Talks
@@ -89,7 +87,6 @@
 - [p5.js](https://github.com/processing/p5.js) - :art: :guitar:  p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web.
 
 
-
 ## TODO
 
 - [awesome-lint](https://github.com/sindresorhus/awesome-lint)
@@ -103,6 +100,5 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 
 ## License
-
 
 The content of this project itself is licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US).
