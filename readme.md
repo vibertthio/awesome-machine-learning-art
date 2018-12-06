@@ -33,21 +33,31 @@
 - [Anna Ridler](https://twitter.com/annaridler) - An artists who specilizes in machine learning and drawing.
 
 
+
+
 ## Projects
+
+### Visual
+
+- [art-DCGAN](https://github.com/robbiebarrat/art-DCGAN) - :art: Modified implementation of DCGAN focused on generative art.
+- [Fast Style Transfer](https://yining1023.github.io/fast_style_transfer_in_ML5/#)  - ⚡ Extremely easy example for fast real-time style transfer in the browser.
+- [Dirty Data](https://www.memo.tv/portfolio/dirty-data/) - 😈 What happens when you use ‘dirty’ data? Does the network learn anything? If so, what does it learn? Is there anything interesting we can get out of it?
+- [Everyone Dance Now](https://www.youtube.com/watch?v=PCBTZh41Ris) - 💃 transfer any person into a professional dancer immediately.
+
+### Music
 
 - [Magenta](https://magenta.tensorflow.org/) - An open source research project exploring the role of machine learning as a tool in the creative process.
 - [The Infinite Drum Machine](https://experiments.withgoogle.com/drum-machine) - 🥁 Thousands of everyday sounds, organized using machine learning.
-- [art-DCGAN](https://github.com/robbiebarrat/art-DCGAN) - :art: Modified implementation of DCGAN focused on generative art.
 - [rapping-neural-network](https://github.com/robbiebarrat/rapping-neural-network) - 🎤 Rap song writing recurrent neural network trained on Kanye West's entire discography.
 - [Beat Blender](https://experiments.withgoogle.com/ai/beat-blender/view/) - 🥁 Blend beats using machine learning to create music in a fun new way.
 - [Melody Mixer](https://experiments.withgoogle.com/ai/melody-mixer/view/) - 🎶 A fun way to explore music using machine learning.
 - [Performance RNN](https://magenta.tensorflow.org/demos/performance_rnn/index.html#1|2,0,1,0,1,1,0,1,0,1,0,1|1,1,1,1,1,1,1,1,1,1,1,1|1,1,1,1,1,1,1,1,1,1,1,1|true) - :musical_keyboard: Real-time performance by a reccurent neural network (RNN) in the browser.
-- [Fast Style Transfer](https://yining1023.github.io/fast_style_transfer_in_ML5/#)  - ⚡ Extremely easy example for fast real-time style transfer in the browser.
-- [Dirty Data](https://www.memo.tv/portfolio/dirty-data/) - 😈 What happens when you use ‘dirty’ data? Does the network learn anything? If so, what does it learn? Is there anything interesting we can get out of it?
 - [Neural Beatbox](https://twitter.com/naotokui_en/status/1026467328592994305) - 🎤 RNN-based rhythm geration + audio classification = fun!
 - [AI DJ](http://aidj.qosmo.jp/) - 💽 A live performance featuring an Artificial Intelligence (AI) DJ playing alongside a human DJ. It won “Honorary Mentions” Award at Prix Ars Electronica 2018.
+
+### Misc
+
 - [Machine Learning for Creativity and Design, NeurIPS 2018 Workshop](https://nips2018creativity.github.io/) - 👨‍👩‍👧‍👦 It features 35 papers about mahcine learning art, incluing a wide range of different disciplines.
-- [Everyone Dance Now](https://www.youtube.com/watch?v=PCBTZh41Ris) - 💃 transfer any person into a professional dancer immediately.
 
 
 ## Articles and Talks
