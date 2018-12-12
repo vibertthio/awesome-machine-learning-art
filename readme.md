@@ -31,6 +31,7 @@
 - [Nao Tokui](https://twitter.com/naotokui_en/) - Runs a creative lab, Qosmo, in Tokyo. He is the creator of the "AI DJ" project.
 - [Sofia Crespo](https://twitter.com/soficrespo91) - An artists who is playing around botany, microscopy, and nueral networks.
 - [Anna Ridler](https://twitter.com/annaridler) - An artists who specilizes in machine learning and drawing.
+- [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/) - The creator of The Wekinator (an interacitve machine learning tool).
 
 
 
@@ -56,9 +57,16 @@
 - [Neural Beatbox](https://twitter.com/naotokui_en/status/1026467328592994305) - 🎤 RNN-based rhythm geration + audio classification = fun!
 - [AI DJ](http://aidj.qosmo.jp/) - 💽 A live performance featuring an Artificial Intelligence (AI) DJ playing alongside a human DJ. It won “Honorary Mentions” Award at Prix Ars Electronica 2018.
 
+### Interactive
+
+- [The Wekinator](http://www.wekinator.org/) - It allows anyone to use machine learning to build new musical instruments, gestural game controllers, computer vision or computer listening systems, and more. It's free and open source.
+
 ### Misc
 
 - [Machine Learning for Creativity and Design, NeurIPS 2018 Workshop](https://nips2018creativity.github.io/) - 👨‍👩‍👧‍👦 It features 35 papers about mahcine learning art, incluing a wide range of different disciplines.
+- [Runway](https://runwayapp.ai/) - It is a toolkit that adds artificial intelligence capabilities to design and creative platforms.
+
+
 
 
 ## Articles and Talks
