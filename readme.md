@@ -32,6 +32,7 @@
 - [Sofia Crespo](https://twitter.com/soficrespo91) - An artists who is playing around botany, microscopy, and nueral networks.
 - [Anna Ridler](https://twitter.com/annaridler) - An artists who specilizes in machine learning and drawing.
 - [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/) - The creator of The Wekinator (an interacitve machine learning tool).
+- [Sofia Crespo](https://twitter.com/soficrespo91) - An artist based in Berlin. Her works are around microscopy, memetics, botany, and neural nets.
 
 
 
@@ -73,10 +74,10 @@
 
 - [Machine learning for artists (a.k.a ml4a) (Gene Kogan)](https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097) - This article compares the emerging of ML in art as the case of CV in early 2000s.
 - [Artists and Machine Intelligence](https://medium.com/artists-and-machine-intelligence) -  A program at Google that brings artists and engineers together to realize projects using Machine Intelligence.
-- [BBC Sounds: The arts and artificial intelligence](https://www.bbc.co.uk/sounds/play/m00017b1) - A painting by a GAN model is sold for  $432,500 USD in an auction (NOTE: the original code is written by [Robbie Barrat](https://t.co/G3lVHm5UB0), [The Verge](https://www.theverge.com/2018/10/23/18013190/ai-art-portrait-auction-christies-belamy-obvious-robbie-barrat-gans)). The talk is joined by Mario Klingemann and Anna Ridler.
 - [MusicVAE: Creating a palette for musical scores with machine learning](https://magenta.tensorflow.org/music-vae)
 - [Generating Abstract Patterns with TensorFlow](http://blog.otoro.net/2016/03/25/generating-abstract-patterns-with-tensorflow/)
-
+- [BBC Sounds: The arts and artificial intelligence](https://www.bbc.co.uk/sounds/play/m00017b1) - A painting by a GAN model is sold for  $432,500 USD in an auction (NOTE: the original code is written by [Robbie Barrat](https://t.co/G3lVHm5UB0), [The Verge](https://www.theverge.com/2018/10/23/18013190/ai-art-portrait-auction-christies-belamy-obvious-robbie-barrat-gans)). The talk is joined by Mario Klingemann and Anna Ridler.
+- [The AI Art At Christie’s Is Not What You Think](https://www.artnome.com/news/2018/10/13/the-ai-art-at-christies-is-not-what-you-think) - Jason Bailey interview both Huge from Obvious and Robbie Barrat to investigate further into the controversial auction of Christie.
 
 ## Learning Resources
 
@@ -100,11 +101,15 @@
 - [cs231n](http://cs231n.github.io/) - The notes accompany the Stanford Computer Science class CS231n (Convolutional Neural Networks for Visual Recognition).
 
 
+
+
 ## Libraries
 
 - [tensorflow.js](https://js.tensorflow.org/) - :zap: A JavaScript library for training and deploying ML models in the browser and on Node.js.
 - [ml5.js](https://ml5js.org/) - :robot: 🖌  It aims to make machine learning approachable for a broad audience of artists, creative coders, and students.
 - [p5.js](https://github.com/processing/p5.js) - :art: :guitar:  p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web.
+
+
 
 
 ## TODO
