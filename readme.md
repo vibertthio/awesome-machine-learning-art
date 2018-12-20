@@ -78,6 +78,7 @@
 - [Generating Abstract Patterns with TensorFlow](http://blog.otoro.net/2016/03/25/generating-abstract-patterns-with-tensorflow/)
 - [BBC Sounds: The arts and artificial intelligence](https://www.bbc.co.uk/sounds/play/m00017b1) - A painting by a GAN model is sold for  $432,500 USD in an auction (NOTE: the original code is written by [Robbie Barrat](https://t.co/G3lVHm5UB0), [The Verge](https://www.theverge.com/2018/10/23/18013190/ai-art-portrait-auction-christies-belamy-obvious-robbie-barrat-gans)). The talk is joined by Mario Klingemann and Anna Ridler.
 - [The AI Art At Christie’s Is Not What You Think](https://www.artnome.com/news/2018/10/13/the-ai-art-at-christies-is-not-what-you-think) - Jason Bailey interview both Huge from Obvious and Robbie Barrat to investigate further into the controversial auction of Christie.
+- [How Generative Music Works: A Perspective](https://teropa.info/loop/#/title) - It's a website describing generative music interactively.
 
 ## Learning Resources
 
