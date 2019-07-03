@@ -64,6 +64,8 @@
 - [RUNN](https://vibertthio.com/runn/) -  A game based on a musical machine learning algorithm which can generate melodies. 
   The player has to finish the side-scrolling game to listen to the full song.
 
+- [Jazz RNN](https://vibertthio.com/jazz-rnn/) - Listen to the jazz created by an algorithm.
+
 ### Interactive
 
 - [The Wekinator](http://www.wekinator.org/) - It allows anyone to use machine learning to build new musical instruments, gestural game controllers, computer vision or computer listening systems, and more. It's free and open source.
@@ -73,6 +75,7 @@
 - [Machine Learning for Creativity and Design, NeurIPS 2018 Workshop](https://nips2018creativity.github.io/) - 👨‍👩‍👧‍👦 It features 35 papers about mahcine learning art, incluing a wide range of different disciplines.
 - [Runway](https://runwayapp.ai/) - It is a toolkit that adds artificial intelligence capabilities to design and creative platforms.
 - [Autonomous Trap 001](https://www.vice.com/en_us/article/qkmeyd/meet-the-artist-using-ritual-magic-to-trap-self-driving-cars?fbclid=IwAR3oG8dWtY5krLlIoroXCwJCSq76BpVG2JGhSEWnvjwD2i0oQd9DtuYPodo) - the artist used ritual magic to trap self-driving cars.
+- [Fake New Generator](https://twitter.com/genekogan/status/1143875134052339712) - The model can generate almost meaningful text from any title.
 
 
 
