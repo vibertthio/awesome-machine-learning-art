@@ -64,7 +64,6 @@
 - [Sornting](https://vibertthio.com/sornting/) - A game based on a musical machine learning algorithm which can interpolate different melodies. The player has to listen to the music to find out the right order, or "sort" the song.
 - [RUNN](https://vibertthio.com/runn/) -  A game based on a musical machine learning algorithm which can generate melodies. 
   The player has to finish the side-scrolling game to listen to the full song.
-
 - [Jazz RNN](https://vibertthio.com/jazz-rnn/) - Listen to the jazz created by an algorithm.
 
 ### Interactive
