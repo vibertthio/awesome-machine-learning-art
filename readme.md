@@ -68,6 +68,11 @@
   The player has to finish the side-scrolling game to listen to the full song.
 - [Jazz RNN](https://vibertthio.com/jazz-rnn/) - Listen to the jazz created by an algorithm.
 
+### Text
+
+- [Generated Recipes](https://aiweirdness.com/post/140508739392/the-neural-network-wants-you-to-let-it-cook)
+- [GPT-3 Creative Fiction](https://www.gwern.net/GPT-3) - Creative writing by OpenAI’s GPT-3 model, demonstrating poetry, dialogue, puns, literary parodies, and storytelling.
+
 ### Interactive
 
 - [The Wekinator](http://www.wekinator.org/) - It allows anyone to use machine learning to build new musical instruments, gestural game controllers, computer vision or computer listening systems, and more. It's free and open source.
