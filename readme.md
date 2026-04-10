@@ -55,6 +55,8 @@
 
 ### Music
 
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrumental tracks using AI
+
 - [Magenta](https://magenta.tensorflow.org/) - An open source research project exploring the role of machine learning as a tool in the creative process.
 - [The Infinite Drum Machine](https://experiments.withgoogle.com/drum-machine) - 🥁 Thousands of everyday sounds, organized using machine learning.
 - [rapping-neural-network](https://github.com/robbiebarrat/rapping-neural-network) - 🎤 Rap song writing recurrent neural network trained on Kanye West's entire discography.
