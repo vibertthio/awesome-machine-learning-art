@@ -118,6 +118,7 @@
 - [Neural Style Transfer: Creating Art with Deep Learning using tf.keras and eager execution](https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398)
 - [Creative Applications of Deep Learning with TensorFlow (Parag Mital)](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
 - [cs231n](http://cs231n.github.io/) - The notes accompany the Stanford Computer Science class CS231n (Convolutional Neural Networks for Visual Recognition).
+- [TutorialSearch](https://tutorialsearch.io/browse/ai-machine-learning/cloud-machine) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 
 
