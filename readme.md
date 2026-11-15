@@ -67,6 +67,7 @@
 - [RUNN](https://vibertthio.com/runn/) -  A game based on a musical machine learning algorithm which can generate melodies. 
   The player has to finish the side-scrolling game to listen to the full song.
 - [Jazz RNN](https://vibertthio.com/jazz-rnn/) - Listen to the jazz created by an algorithm.
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - AI-accessible live-music venue directory and remote MCP server for discovering 7,000+ North American venues and booking contacts.
 
 ### Text
 
